@@ -1,0 +1,6 @@
+{
+  "name": "JavaScript To Do List - Enes Öztürk",
+  "description": "Kodluyoruz JavaScript To Do List ödevi. LocalStorage desteği, dinamik eleman ekleme, silme, yapıldı işaretleme ve Toast bildirimleriyle Enes Öztürk el emeği.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
